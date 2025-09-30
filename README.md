@@ -68,7 +68,13 @@ Yes, GitHub Pages supports custom domains with DNS configuration.
 By completing this project, I learned:
 - How to structure and design a simple portfolio website.  
 - How to use **GitHub Pages** for free hosting.  
-- How to manage updates via **Git and GitHub**.  
+- How to manage updates via **Git and GitHub**.
+
+ ## Screenshots
+ <img src="./images/result1.png" alt="screenshot" width="800"/>
+
+## Screenshots
+ <img src="./images/result2.png" alt="screenshot" width="800"/>
 
 ---
 
